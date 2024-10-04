@@ -1,0 +1,12 @@
+{
+    "ejercicio_1": [
+        "Avistamiento(fechahora=datetime.datetime(2011, 7, 4, 22, 0), ciudad='muncie', estado='in', forma='light', duracion=240, comentarios='((HOAX??))  4th  of July ufo and a image of a ghostly alien face very disturbing.', latitud=40.1933333, longitud=-85.3863889)",
+        "Avistamiento(fechahora=datetime.datetime(2005, 4, 7, 17, 1), ciudad='deming (somewhere near)', estado='nm', forma='changing', duracion=1200, comentarios='((NUFORC Note:  Helium-filled heliostat.  PD)) The shape-shifting object danced around at various speed  height and direction.', latitud=32.2686111, longitud=-107.7580556)",
+        "Avistamiento(fechahora=datetime.datetime(2010, 3, 12, 19, 56), ciudad='erie', estado='pa', forma='changing', duracion=300, comentarios='3/12/10Viewed a comet like object very bright fall out of the sky about 1 mile.', latitud=42.1291667, longitud=-80.0852778)",
+        "Avistamiento(fechahora=datetime.datetime(2013, 7, 4, 22, 25), ciudad='seattle', estado='wa', forma='unknown', duracion=600, comentarios='A RED Light was seen over the Highland Park area of Seattle (((Drone?))).', latitud=47.6063889, longitud=-122.3308333)",
+        "Avistamiento(fechahora=datetime.datetime(2003, 9, 9, 0, 40), ciudad='clearwater', estado='fl', forma='triangle', duracion=120, comentarios='bright light to east split to 3 triangle 1 hovered and 2 dropped.  ((NUFORC Note:  Titan 4 launch from Cape Canaveral.  PD))', latitud=27.9655556, longitud=-82.8002778)"
+    ],
+    "ejercicio_2": "Duración total de los avistamientos en Florida: 54382496",
+    "ejercicio_3": "Comentario más largo: 0",
+    "ejercicio_4": {
+        "July": 
