@@ -1,0 +1,18 @@
+def comparar_cadenas(str1, str2):
+    out1 = ""
+    out2 = ""
+
+    for char in str1:
+        if char not in str2:
+            out1 += char
+
+    for char in str2:
+        if char not in str1:
+            out2 += char
+
+    print(f"out1: {out1}")
+    print(f"out2: {out2}")
+
+str1 = "abcdef"
+str2 = "acdfgh"
+comparar_cadenas(str1, str2)
