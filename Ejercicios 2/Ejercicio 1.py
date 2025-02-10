@@ -7,7 +7,7 @@ def leer_alumnos(ruta_archivo):
         for fila in lector:
             nombre_completo = fila[0].split(', ')
             if len(nombre_completo) < 2:
-                continue  # Ignorar filas mal formateadas
+                continue
             alumno = {
                 "nombre": nombre_completo[1],
                 "apellidos": nombre_completo[0],
